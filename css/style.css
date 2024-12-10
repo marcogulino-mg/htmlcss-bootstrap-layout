@@ -1,16 +1,13 @@
 /* COL */
-
 div[class*="bg-body-tertiary"] {
-    color: #000;
+  color: #000;
 }
 
 [class^="col"] {
-    padding: 20px;
-    color: #fff;
+  padding: 20px;
+  color: #fff;
 }
 
-
 h3 {
-    font-size: 2rem;
-    font-weight: 600;
+  font-weight: 600;
 }
