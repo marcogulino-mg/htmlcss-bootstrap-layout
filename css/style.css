@@ -1,4 +1,9 @@
 /* COL */
+
 [class^="col"] {
     padding: 20px;
+}
+
+h3 {
+    font-weight: 600;
 }
